@@ -13,7 +13,7 @@
 
 # My Session @ ICPC SCU 
 
-## **Divisibility rules and tests:**
+## **Divisibility rules and tests**
 **Reading materials:**
  - [GeeksforGeeks](https://www.geeksforgeeks.org/divisibility-rules/)
  - [Math Warehouse](https://www.mathwarehouse.com/arithmetic/numbers/divisibility-rules-and-tests.php)
@@ -22,7 +22,7 @@
 
  - [C. Anas and Divisibility](C.%20Anas%20and%20Divisibility)
 
-## Binary Exponentiation and Modular Arithmetic:
+## Binary Exponentiation and Modular Arithmetic
 **Reading materials:**
 
  - [Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/binary-exp.html)
