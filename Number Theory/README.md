@@ -63,7 +63,7 @@
  - [Mostafa Saad](https://www.youtube.com/watch?v=YklnFXpq0ZE&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&index=7)
  - [Erricho](https://www.youtube.com/watch?v=L-Wzglnm4dM&t=2s)
 
-**Article:**
+**Reading materials:**
  - [CP Algorithms](https://cp-algorithms.com/algebra/euclid-algorithm.html)
  
 **Problems:**
@@ -75,7 +75,7 @@
  **Videos:**
  - [Mostafa Saad](https://www.youtube.com/watch?v=VZBfW08ECgA&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&index=4)
 
-**Article:**
+**Reading materials:**
  - [GeeksforGeeks](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
  - [CP Algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
 
