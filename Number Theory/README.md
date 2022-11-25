@@ -3,17 +3,17 @@
 **Main points:**
 
  1. Divisibility rules
- 2. Binary Exponentiation
- 3. Modular Arithmetic
+ 2. Modular Arithmetic
+ 3. Binary Exponentiation
  4. Factorization & Divisors
  5. Prime Numbers and Prime Factorization
  6. GCD (Middle School, Euclidean Algorithm)
  7. LCM
  8. Sieve
 
-# My Session @ ICPC SCU 
+# My Session [@ ICPC SCU](https://cisuezedu.sharepoint.com/sites/ICPC-SCULevel12022/_layouts/15/stream.aspx?id=/sites/ICPC-SCULevel12022/Shared%20Documents/General/Recordings/Number%20Theory-20221124_200452-Meeting%20Recording.mp4&referrer=Teams.TEAMS-ELECTRON&referrerScenario=teamsSdk-openFilePreview) 
 
-## **Divisibility rules and tests**
+## **Divisibility rules and tests:**
 **Reading materials:**
  - [GeeksforGeeks](https://www.geeksforgeeks.org/divisibility-rules/)
  - [Math Warehouse](https://www.mathwarehouse.com/arithmetic/numbers/divisibility-rules-and-tests.php)
@@ -21,8 +21,8 @@
 **Problems:**
 
  - [C. Anas and Divisibility](C.%20Anas%20and%20Divisibility)
-
-## Binary Exponentiation and Modular Arithmetic
+ 
+## Binary Exponentiation and Modular Arithmetic:
 **Reading materials:**
 
  - [Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/binary-exp.html)
@@ -45,6 +45,7 @@
 **Problems:**
  - [Counting Divisors](https://cses.fi/problemset/task/1713)
  - [Integer Factorization](https://www.spoj.com/problems/FACT0/)
+ 
 ## Prime Numbers and Prime Factorization
 **Videos:**
  - [Mostafa saad](https://www.youtube.com/watch?v=VZBfW08ECgA&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&index=5)
@@ -56,26 +57,27 @@
  - [H. One Prime](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H)
  - [J. Primes from 1 to n](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J)
  - [B. Prime checking](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/B)
-
-## Fib, GCD, LCM, POW
+ 
+  ## GCD, LCM:
 
  **Videos:**
  - [Mostafa Saad](https://www.youtube.com/watch?v=YklnFXpq0ZE&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&index=7)
  - [Erricho](https://www.youtube.com/watch?v=L-Wzglnm4dM&t=2s)
 
-**Reading materials:**
+**Article:**
  - [CP Algorithms](https://cp-algorithms.com/algebra/euclid-algorithm.html)
  
 **Problems:**
+ - [E. Paris I](https://codeforces.com/group/zUe4LCY7ca/contest/401615/problem/E)
+ - [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/)
  - [GCD and LCM](https://www.codechef.com/problems/FLOW016)
- - [Exponentiation](https://cses.fi/problemset/task/1095)
 
-## Sieve
+## Sieve:
 
  **Videos:**
  - [Mostafa Saad](https://www.youtube.com/watch?v=VZBfW08ECgA&list=PLPt2dINI2MIY7l5zyFd1W28rei3b-AXaJ&index=4)
 
-**Reading materials:**
+**Article:**
  - [GeeksforGeeks](https://www.geeksforgeeks.org/sieve-of-eratosthenes/)
  - [CP Algorithms](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
 
